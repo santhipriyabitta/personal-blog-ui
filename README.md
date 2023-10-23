@@ -1,6 +1,6 @@
 <h2 align="center">
 Personal Blog/Business Website UI - v1.0<br/>
-  <a href="" target="_blank">Live Website</a>
+  <a href="https://santhipriyabitta.github.io/personal-blog-ui/" target="_blank">Live Website</a>
 
 </h2>
 
