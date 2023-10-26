@@ -11,7 +11,6 @@ Personal Blog/Business Website UI - v1.0<br/>
 It is a personal Business & Blog Website UI, which is designed to describe and explore the basic building blocks of Web Design & Development- HTML, CSS and JS
 <br/>
 
-
 ![blog Homepage](image.png)
 
 ## Tools & Technologies
